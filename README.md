@@ -8,9 +8,7 @@
 
 ### 💻 Main Tech Stack
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript logo" width="40" height="40" /> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React logo" width="40" height="40" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="next.js logo" width="40" height="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="next.js logo" width="40" height="40" />
 
 ### 🔥🤖 About me
 
