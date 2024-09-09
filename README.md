@@ -18,7 +18,7 @@
 - 💼 Junior Web Developer  at [Ultimate Solution Myanmar] [June 2023- Dec 2023]
 
 ### 📫 Reach me on
-<a href="https://www.facebook.com/profile.php?id=100084444384694" target="blank">
+<a href="https://www.facebook.com/kaungmyatzawwin.dev/" target="blank">
 <img align="center" src="https://cdn-icons-png.flaticon.com/128/2504/2504903.png" alt="facebook" height="40" width="40" />
 </a>
 <a href="#" target="blank">
