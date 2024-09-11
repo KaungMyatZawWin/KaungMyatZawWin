@@ -22,3 +22,13 @@
 <a href="#" target="blank">
 <img align="center" src="https://cdn-icons-png.flaticon.com/128/2504/2504923.png" alt="kaungmyatzawwin" height="40" width="40" />
 </a>
+
+### 🦾 Projects
+
+
+| Project Name            | Year           | Position          |
+|-------------------------|----------------|-------------------|
+| GTB Bank Consumer App   | 2024 - Present | Mobile Devevloper |
+| GTB Bank Agent App      | 2024 - Present | Mobile Developer  |
+| Pay2U Bank Consumer App | 2024 - Present | Mobile Developer  |
+| Pay2U Bank Agent App    | 2024 - Present | Mobile Developer  |
