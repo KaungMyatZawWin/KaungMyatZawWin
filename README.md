@@ -15,15 +15,15 @@
 - 💼 Software Engineer at [ACE Data Systems](https://acedatasystems.com/) [April 2024 - Present]
 - 💼 Junior Web Developer  at [Ultimate Solution Myanmar] [June 2023- Dec 2023]
 
-  ┌───────────────────────────────────────────────┐
+┌───────────────────────────────────────────────┐
 │                                               │
 │        R8 MASTER BADGE                        │
 │                                               │
-│   ┌──────┐    ┌──────────────────────┐       │
-│   │      │    │  SHRINK | OPTIMIZE  │       │
-│   │  R8  │──▶ │  OBFUSCATE | KEEP    │       │
-│   │      │    │                      │       │
-│   └──────┘    └──────────────────────┘       │
+│   ┌──────┐    ┌──────────────────────┐        │
+│   │      │    │  SHRINK | OPTIMIZE   │         │
+│   │  R8  │──▶ │  OBFUSCATE | KEEP    │        │
+│   │      │    │                      │        │
+│   └──────┘    └──────────────────────┘        │
 │                                               │
 │   Certified: [Your Name]                      │
 │   Date: November 06, 2025                     │
