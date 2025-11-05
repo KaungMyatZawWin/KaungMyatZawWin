@@ -15,6 +15,25 @@
 - 💼 Software Engineer at [ACE Data Systems](https://acedatasystems.com/) [April 2024 - Present]
 - 💼 Junior Web Developer  at [Ultimate Solution Myanmar] [June 2023- Dec 2023]
 
+  ┌───────────────────────────────────────────────┐
+│                                               │
+│        R8 MASTER BADGE                        │
+│                                               │
+│   ┌──────┐    ┌──────────────────────┐       │
+│   │      │    │  SHRINK | OPTIMIZE  │       │
+│   │  R8  │──▶ │  OBFUSCATE | KEEP    │       │
+│   │      │    │                      │       │
+│   └──────┘    └──────────────────────┘       │
+│                                               │
+│   Certified: [Your Name]                      │
+│   Date: November 06, 2025                     │
+│   Skills:                                     │
+│   • ProGuard Rules Expert                     │
+│   • Release APK Debugging                     │
+│   • Firebase + Notifee Survivor               │
+│                                               │
+└───────────────────────────────────────────────┘
+
 ### 📫 Reach me on
 <a href="https://www.facebook.com/kaungmyatzawwin.dev/" target="blank">
 <img align="center" src="https://cdn-icons-png.flaticon.com/128/2504/2504903.png" alt="facebook" height="40" width="40" />
